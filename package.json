@@ -6,7 +6,7 @@
 	"dependencies": {
 		"express": "^4.14.0",
 		"gh-pages": "^3.2.3",
-    "moment": "2.14.0"
+		"moment": "2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -25,6 +25,6 @@
 		"git-github",
 		"Node-Js"
 	],
-  "license": "MIT",
-  "version": "2.10.2"
+	"license": "MIT",
+	"version": "2.10.2"
 }
