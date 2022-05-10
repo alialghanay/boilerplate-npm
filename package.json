@@ -1,6 +1,7 @@
 {
 	"homepage": "https://alialghanay.github.io/boilerplate-npm",
 	"author": "alialghany",
+  "description": "A project that does something awesome",  
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0",
