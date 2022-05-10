@@ -24,5 +24,6 @@
 		"git-github",
 		"Node-Js"
 	],
-  "license": "MIT"
+  "license": "MIT",
+  "version": "1.0.4"
 }
